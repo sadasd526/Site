@@ -1,0 +1,20 @@
+{
+    "items":[
+       {
+          "id":13134,
+          "goodId":"631a1c10cabf86d79c66e487",
+          "name":"Japan Egg",
+          "realName":"japan_2022_egg",
+          "imageUri":"https://goods.starpets.gg/api/assets/fetch?id=22egg",
+          "age":null,
+          "rare":"legendary",
+          "type":"egg",
+          "subtype":null,
+          "pumping":null,
+          "flyable":null,
+          "rideable":null,
+          "price":399999.72
+       }
+    ], 
+    "count": 1
+ }

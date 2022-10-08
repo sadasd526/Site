@@ -1,0 +1,22 @@
+{
+    "user_id":"6135f4014109475dac0b5ba2",
+    "username":"Sima_Shes",
+    "username_lowercase":"sima_shes",
+    "public_username":"Sima_Shes",
+    "email":"shestakova.sima@gmail.com",
+    "balance":{
+       "usd":"0.00",
+       "rub":"1.55",
+       "eur":"0.13"
+    },
+    "balance_offset":{
+       "usd":"0.00",
+       "rub":"0.00",
+       "eur":"0.00"
+    },
+    "ref_code":"",
+    "avatar_url":"3",
+    "main_language":"en",
+    "main_country":"RU",
+    "main_currency":"eur"
+ }
